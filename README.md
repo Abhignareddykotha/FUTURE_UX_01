@@ -35,6 +35,23 @@ CIN: FIT/FEB26/UX1635
 
 ---
 
+## Design Rationale
+
+### Target Users
+The primary users are customers looking for salon services who want a simple way to explore available services and book appointments online quickly.
+
+### Layout Structure
+The redesigned website follows a clear flow: Homepage → Service Categories → Booking → Confirmation. This structure helps users easily navigate the website and complete bookings without confusion.
+
+### UX Decisions
+Services are organized into categories such as Hair, Makeup, Nails, and Facials. Important information like service price and duration is clearly displayed. A step-by-step booking process guides users through selecting services, choosing time slots, and confirming appointments.
+
+### Conversion Improvements
+The redesign highlights clear **Book Appointment** call-to-action buttons and improves service discovery. These changes make it easier for users to complete bookings and improve the overall user experience.
+
+---
+
+
 ## Figma Prototype
 
 You can view the interactive prototype here:
