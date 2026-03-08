@@ -79,4 +79,4 @@ https://www.figma.com/proto/5xIafjAGzuDg9n4n3C4YvS/ui-ux-task-1
 
 You can view the full UX case study here:
 
-ui_ux_casestudy.
+ui_ux_casestudy
