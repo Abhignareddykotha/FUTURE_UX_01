@@ -76,33 +76,7 @@ https://www.figma.com/proto/5xIafjAGzuDg9n4n3C4YvS/ui-ux-task-1
 ![Lead Page](LEADPAGE.png)
 ---
 ## Case Study PDF
-
-You can view the full UX case study here:
-%PDF-1.5
-%����
-13 0 obj
-<<
-/Type /ExtGState
-/BM /Normal
-/ca 1
->>
-endobj
-14 0 obj
-<<
-/Type /ExtGState
-/BM /Normal
-/CA 1
->>
-endobj
-16 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 181
-/Height 43
-/ColorSpace /DeviceGray
-/Matte [0 0 0]
-/BitsPerComponent 8
+ui_ux_casestudy
 /Interpolate false
 /Filter /FlateDecode
 /Length 371
