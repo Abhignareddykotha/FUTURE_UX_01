@@ -74,12 +74,3 @@ https://www.figma.com/proto/5xIafjAGzuDg9n4n3C4YvS/ui-ux-task-1
 
 ### Lead Page
 ![Lead Page](LEADPAGE.png)
----
-## Case Study PDF
-ui_ux_casestudy
-/Interpolate false
-/Filter /FlateDecode
-/Length 371
->>
-stream
-x��ؽN�P���BXˤ�&:��ĈFq
