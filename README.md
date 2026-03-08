@@ -39,10 +39,10 @@ CIN: FIT/FEB26/UX1635
 ![Homepage](homepage.png)
 
 ### Service Page
-![Service Page](service page.png)
+![Service Page](servicepage.png)
 
 ### Booking Page
-![Booking Page](booking page.png)
+![Booking Page](bookingpage.png)
 
 ### Lead Page
-![Lead Page](LEAD PAGE.png)
+![Lead Page](LEADPAGE.png)
