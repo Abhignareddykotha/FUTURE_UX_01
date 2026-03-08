@@ -33,6 +33,17 @@ CIN: FIT/FEB26/UX1635
 ## Internship Duration
 18 February 2026 – 18 March 2026
 
+---
+
+## Figma Prototype
+
+You can view the interactive prototype here:
+
+https://www.figma.com/proto/5xIafjAGzuDg9n4n3C4YvS/ui-ux-task-1
+
+---
+
+
 ## Design Screenshots
 
 ### Homepage
