@@ -32,3 +32,17 @@ CIN: FIT/FEB26/UX1635
 
 ## Internship Duration
 18 February 2026 – 18 March 2026
+
+## Design Screenshots
+
+### Homepage
+![Homepage](homepage.png)
+
+### Service Page
+![Service Page](service page.png)
+
+### Booking Page
+![Booking Page](booking page.png)
+
+### Lead Page
+![Lead Page](LEAD PAGE.png)
