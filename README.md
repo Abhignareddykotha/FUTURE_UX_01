@@ -74,3 +74,10 @@ https://www.figma.com/proto/5xIafjAGzuDg9n4n3C4YvS/ui-ux-task-1
 
 ### Lead Page
 ![Lead Page](LEADPAGE.png)
+
+---
+## Case Study PDF
+
+You can view the full UX case study here:
+
+[View the UX Case Study](casestudy1.pdf)
